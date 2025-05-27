@@ -32,6 +32,7 @@ When you try to open an app downloaded from the internet, macOS shows:
 7. A dialog will appear asking "Allow From Anywhere?"
 8. Click **"Allow From Anywhere"** button
 9. Enter your **admin password** to confirm
+<img width="996" alt="Bildschirmfoto 2025-05-27 um 13 08 42" src="https://github.com/user-attachments/assets/c34016d4-1047-4ca9-89ae-6b1e5b756974" />
 
 ### Step 3: Test Your App
 
